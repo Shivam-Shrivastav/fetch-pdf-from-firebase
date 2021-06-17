@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085130268919",
+    "project_id": "fetchpdf-4f7bf",
+    "storage_bucket": "fetchpdf-4f7bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085130268919:android:af16ac505685f7615f33f2",
+        "android_client_info": {
+          "package_name": "com.example.fetch_pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085130268919-o0dds58hmacj74dvf674t598csu2ra8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcC84rXGErA5tD2OEqhzM3oyp7jTUJtqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085130268919-o0dds58hmacj74dvf674t598csu2ra8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
